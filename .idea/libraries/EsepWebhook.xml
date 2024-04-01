@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="EsepWebhook">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/EsepWebhook/bin/Release/net8.0/EsepWebhook.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
